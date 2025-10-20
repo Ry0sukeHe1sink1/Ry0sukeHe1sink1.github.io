@@ -8,6 +8,7 @@ layout: default
 
 ## Find me on
 
+[myCV](assets/documents/mycv.pdf)
 [GitHub](https://github.com/Ry0sukeHe1sink1)
 
 ## Contact
