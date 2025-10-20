@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[LinkedIn], [GitHub](https://github.com/Ry0sukeHe1sink1)
+[GitHub](https://github.com/Ry0sukeHe1sink1)
 
 ## Contact
 
