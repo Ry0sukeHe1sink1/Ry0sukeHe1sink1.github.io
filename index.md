@@ -26,6 +26,6 @@ I learn how to use git in [this project](https://github.com/Ry0sukeHe1sink1/cmdl
 ## Misc. 
 I am a member of a music band club in my home university. I like listening to rock music songs, ecspecially shoegazer and alternative ones. I leave some my favorite artists below.
 
- [oasis](https://www.youtube.com/channel/UCUDVBtnOQi4c7E8jebpjc9Q), one of the most famous rock bands in the world
- [kurayamisaka](https://www.youtube.com/@kurayamisaka_official), is a Japanese alternative rock band
- [nano.RIPE](https://www.youtube.com/@nanoripe)is the Japanese rock band. 
+ [oasis](https://www.youtube.com/channel/UCUDVBtnOQi4c7E8jebpjc9Q), one of the most famous rock bands in the world  
+ [kurayamisaka](https://www.youtube.com/@kurayamisaka_official), is a Japanese alternative rock band  
+ [nano.RIPE](https://www.youtube.com/@nanoripe)is the Japanese rock band.   
