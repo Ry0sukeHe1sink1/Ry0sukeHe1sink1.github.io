@@ -68,6 +68,6 @@ layout: default
  I learnt how to copy the website from github pages and install jekyll.
 
 I am not sure what image I should put, so I put cute cat photo.  
-![cat is called neko in japan](assets\images\neko.png)
+![cat is called neko in japan](Ry0sukeHe1sink1.github.io/assets\images\neko.png)
 
 
